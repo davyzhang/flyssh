@@ -9,5 +9,5 @@ use last server
 
 Depends
 ======
-phantomjs brew install phantomjs/phantomjs.org
+phantomjs brew install phantomjs/phantomjs.org 
 pexpect pip install pexpect

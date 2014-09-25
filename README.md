@@ -11,8 +11,9 @@ use last server
 
 phantomjs 
 =======
-*MacOS* brew install phantomjs
-*Other OS* http://www.phantomjs.org 
+**MacOS** brew install phantomjs
+
+**Other OS** http://www.phantomjs.org 
 
 pexpect 
 =======

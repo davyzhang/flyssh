@@ -11,8 +11,13 @@ use last server
 
 phantomjs 
 =======
-brew install phantomjs/phantomjs.org 
+*MacOS* brew install phantomjs
+*Other OS* http://www.phantomjs.org 
 
 pexpect 
 =======
+install python2.7 and pip
+using pip
+```
 pip install pexpect
+```
